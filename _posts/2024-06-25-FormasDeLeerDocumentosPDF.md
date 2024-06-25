@@ -1,14 +1,12 @@
 ---
-
 title: Buenas formas de leer documentos en pdf
-
 date: '2024-06-25 17:44:27'
-
-categories: [Consejos tecnologicos] [Windows] [Linux]
- 
-tags: [Consejos,Tecnologia]
-
+comments: true
+categories: [Consejos tecnologicos]
+tags: [ConsejosTecnologia]
 ---
+
+
 
 Suelo utilizar estos metodos cuando deseo leer algun pdf y tengo la vista un poco agotada, les recomiendo probar esto a todos los lectores y a compartir el tutorial en caso os haya sido de ayuda.
 
