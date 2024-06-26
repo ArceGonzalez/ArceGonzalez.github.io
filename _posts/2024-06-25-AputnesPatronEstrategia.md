@@ -24,7 +24,6 @@ Imagina que estás jugando un juego de estrategia donde puedes elegir cómo quie
 En este ejemplo, cada estrategia (ataque directo, emboscada, defensa) es como una "estrategia" en el patrón estrategia. Dependiendo de cómo evoluciona el juego o qué tipo de enemigo te enfrentas, puedes cambiar entre estas estrategias para adaptarte mejor a la situación y mejorar tus probabilidades de ganar.
 
 ## Ejemplo de aplicacion del patron estrategia en caso de comercio electronico
- Claro, el patrón de diseño Strategy (o estrategia) es muy útil en el contexto de un comercio electrónico. Aquí te doy un ejemplo:
 
 Imagina que estás desarrollando el sistema de pago para un sitio web de comercio electrónico. Tienes diferentes opciones de pago disponibles para los clientes: tarjeta de crédito, PayPal y transferencia bancaria. Cada método de pago tiene su propio algoritmo de procesamiento y validación específico.
 
